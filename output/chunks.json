@@ -1,0 +1,1712 @@
+[
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::PartialPaymentValidationError",
+    "text": "Class PartialPaymentValidationError is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "class"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::SalesInvoice",
+    "text": "Class SalesInvoice is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "class"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::__init__",
+    "text": "Function __init__ is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::set_indicator",
+    "text": "Function set_indicator is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::onload",
+    "text": "Function onload is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::validate",
+    "text": "Function validate is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::validate_accounts",
+    "text": "Function validate_accounts is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::validate_for_repost",
+    "text": "Function validate_for_repost is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::validate_fixed_asset",
+    "text": "Function validate_fixed_asset is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::validate_item_cost_centers",
+    "text": "Function validate_item_cost_centers is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::validate_income_account",
+    "text": "Function validate_income_account is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::before_save",
+    "text": "Function before_save is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::before_submit",
+    "text": "Function before_submit is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::on_submit",
+    "text": "Function on_submit is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::validate_pos_return",
+    "text": "Function validate_pos_return is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::validate_pos_paid_amount",
+    "text": "Function validate_pos_paid_amount is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::check_if_consolidated_invoice",
+    "text": "Function check_if_consolidated_invoice is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::check_if_created_using_pos_and_pos_closing_entry_generated",
+    "text": "Function check_if_created_using_pos_and_pos_closing_entry_generated is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::before_cancel",
+    "text": "Function before_cancel is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::on_cancel",
+    "text": "Function on_cancel is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::update_status_updater_args",
+    "text": "Function update_status_updater_args is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::check_credit_limit",
+    "text": "Function check_credit_limit is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::unlink_sales_invoice_from_timesheets",
+    "text": "Function unlink_sales_invoice_from_timesheets is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::cancel_pos_invoice_credit_note_generated_during_sales_invoice_mode",
+    "text": "Function cancel_pos_invoice_credit_note_generated_during_sales_invoice_mode is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::set_missing_values",
+    "text": "Function set_missing_values is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::reset_mode_of_payments",
+    "text": "Function reset_mode_of_payments is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::update_time_sheet",
+    "text": "Function update_time_sheet is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::update_billed_qty_in_scio",
+    "text": "Function update_billed_qty_in_scio is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::update_time_sheet_detail",
+    "text": "Function update_time_sheet_detail is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::on_update_after_submit",
+    "text": "Function on_update_after_submit is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::set_paid_amount",
+    "text": "Function set_paid_amount is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::set_account_for_mode_of_payment",
+    "text": "Function set_account_for_mode_of_payment is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::validate_time_sheets_are_submitted",
+    "text": "Function validate_time_sheets_are_submitted is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::set_pos_fields",
+    "text": "Function set_pos_fields is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::get_company_abbr",
+    "text": "Function get_company_abbr is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::validate_debit_to_acc",
+    "text": "Function validate_debit_to_acc is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::clear_unallocated_mode_of_payments",
+    "text": "Function clear_unallocated_mode_of_payments is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::validate_with_previous_doc",
+    "text": "Function validate_with_previous_doc is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::set_against_income_account",
+    "text": "Function set_against_income_account is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::force_set_against_income_account",
+    "text": "Function force_set_against_income_account is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::add_remarks",
+    "text": "Function add_remarks is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::validate_auto_set_posting_time",
+    "text": "Function validate_auto_set_posting_time is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::so_dn_required",
+    "text": "Function so_dn_required is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::validate_proj_cust",
+    "text": "Function validate_proj_cust is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::validate_pos",
+    "text": "Function validate_pos is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::validate_created_using_pos",
+    "text": "Function validate_created_using_pos is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::validate_full_payment",
+    "text": "Function validate_full_payment is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::validate_pos_opening_entry",
+    "text": "Function validate_pos_opening_entry is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::validate_warehouse",
+    "text": "Function validate_warehouse is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::validate_delivery_note",
+    "text": "Function validate_delivery_note is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::allow_write_off_only_on_pos",
+    "text": "Function allow_write_off_only_on_pos is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::validate_subcontracted_sales_order",
+    "text": "Function validate_subcontracted_sales_order is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::validate_scio_self_rm_qty",
+    "text": "Function validate_scio_self_rm_qty is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::validate_write_off_account",
+    "text": "Function validate_write_off_account is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::validate_account_for_change_amount",
+    "text": "Function validate_account_for_change_amount is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::validate_dropship_item",
+    "text": "Function validate_dropship_item is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::update_current_stock",
+    "text": "Function update_current_stock is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::update_packing_list",
+    "text": "Function update_packing_list is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::set_billing_hours_and_amount",
+    "text": "Function set_billing_hours_and_amount is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::update_timesheet_billing_for_project",
+    "text": "Function update_timesheet_billing_for_project is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::is_auto_fetch_timesheet_enabled",
+    "text": "Function is_auto_fetch_timesheet_enabled is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::add_timesheet_data",
+    "text": "Function add_timesheet_data is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::calculate_billing_amount_for_timesheet",
+    "text": "Function calculate_billing_amount_for_timesheet is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::timesheet_sum",
+    "text": "Function timesheet_sum is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::get_warehouse",
+    "text": "Function get_warehouse is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::set_income_account_for_fixed_assets",
+    "text": "Function set_income_account_for_fixed_assets is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::check_prev_docstatus",
+    "text": "Function check_prev_docstatus is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::split_asset_based_on_sale_qty",
+    "text": "Function split_asset_based_on_sale_qty is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::get_asset_qty",
+    "text": "Function get_asset_qty is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::process_asset_depreciation",
+    "text": "Function process_asset_depreciation is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::depreciate_asset_on_sale",
+    "text": "Function depreciate_asset_on_sale is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::get_note_for_asset_sale",
+    "text": "Function get_note_for_asset_sale is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::restore_asset",
+    "text": "Function restore_asset is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::get_note_for_asset_return",
+    "text": "Function get_note_for_asset_return is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::update_asset",
+    "text": "Function update_asset is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::_update_asset",
+    "text": "Function _update_asset is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::get_disposal_date",
+    "text": "Function get_disposal_date is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::make_gl_entries",
+    "text": "Function make_gl_entries is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::get_gl_entries",
+    "text": "Function get_gl_entries is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::make_customer_gl_entry",
+    "text": "Function make_customer_gl_entry is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::make_tax_gl_entries",
+    "text": "Function make_tax_gl_entries is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::make_internal_transfer_gl_entries",
+    "text": "Function make_internal_transfer_gl_entries is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::make_item_gl_entries",
+    "text": "Function make_item_gl_entries is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::get_gl_entries_for_fixed_asset",
+    "text": "Function get_gl_entries_for_fixed_asset is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::enable_discount_accounting",
+    "text": "Function enable_discount_accounting is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::make_loyalty_point_redemption_gle",
+    "text": "Function make_loyalty_point_redemption_gle is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::make_pos_gl_entries",
+    "text": "Function make_pos_gl_entries is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::get_gle_for_change_amount",
+    "text": "Function get_gle_for_change_amount is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::make_write_off_gl_entry",
+    "text": "Function make_write_off_gl_entry is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::make_gle_for_rounding_adjustment",
+    "text": "Function make_gle_for_rounding_adjustment is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::update_billing_status_in_dn",
+    "text": "Function update_billing_status_in_dn is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::on_recurring",
+    "text": "Function on_recurring is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::update_project",
+    "text": "Function update_project is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::verify_payment_amount_is_positive",
+    "text": "Function verify_payment_amount_is_positive is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::verify_payment_amount_is_negative",
+    "text": "Function verify_payment_amount_is_negative is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::make_loyalty_point_entry",
+    "text": "Function make_loyalty_point_entry is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::delete_loyalty_point_entry",
+    "text": "Function delete_loyalty_point_entry is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::set_loyalty_program_tier",
+    "text": "Function set_loyalty_program_tier is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::get_returned_amount",
+    "text": "Function get_returned_amount is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::apply_loyalty_points",
+    "text": "Function apply_loyalty_points is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::set_status",
+    "text": "Function set_status is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::is_subcontracted",
+    "text": "Function is_subcontracted is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::get_total_in_party_account_currency",
+    "text": "Function get_total_in_party_account_currency is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::is_overdue",
+    "text": "Function is_overdue is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::get_discounting_status",
+    "text": "Function get_discounting_status is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::validate_inter_company_party",
+    "text": "Function validate_inter_company_party is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::update_linked_doc",
+    "text": "Function update_linked_doc is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::unlink_inter_company_doc",
+    "text": "Function unlink_inter_company_doc is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::get_list_context",
+    "text": "Function get_list_context is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::get_bank_cash_account",
+    "text": "Function get_bank_cash_account is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::make_maintenance_schedule",
+    "text": "Function make_maintenance_schedule is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::make_delivery_note",
+    "text": "Function make_delivery_note is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::set_missing_values",
+    "text": "Function set_missing_values is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::update_item",
+    "text": "Function update_item is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::make_sales_return",
+    "text": "Function make_sales_return is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::get_inter_company_details",
+    "text": "Function get_inter_company_details is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::get_internal_party",
+    "text": "Function get_internal_party is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::validate_inter_company_transaction",
+    "text": "Function validate_inter_company_transaction is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::make_inter_company_purchase_invoice",
+    "text": "Function make_inter_company_purchase_invoice is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::make_regional_gl_entries",
+    "text": "Function make_regional_gl_entries is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::make_inter_company_transaction",
+    "text": "Function make_inter_company_transaction is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::set_missing_values",
+    "text": "Function set_missing_values is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::update_details",
+    "text": "Function update_details is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::_validate_address_link",
+    "text": "Function _validate_address_link is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::update_item",
+    "text": "Function update_item is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::get_received_items",
+    "text": "Function get_received_items is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::set_purchase_references",
+    "text": "Function set_purchase_references is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::update_pi_items",
+    "text": "Function update_pi_items is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::update_pr_items",
+    "text": "Function update_pr_items is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::get_delivery_note_details",
+    "text": "Function get_delivery_note_details is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::get_sales_invoice_details",
+    "text": "Function get_sales_invoice_details is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::get_pd_details",
+    "text": "Function get_pd_details is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::update_taxes",
+    "text": "Function update_taxes is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::update_address",
+    "text": "Function update_address is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::get_loyalty_programs",
+    "text": "Function get_loyalty_programs is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::create_invoice_discounting",
+    "text": "Function create_invoice_discounting is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::update_multi_mode_option",
+    "text": "Function update_multi_mode_option is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::append_payment",
+    "text": "Function append_payment is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::get_all_mode_of_payments",
+    "text": "Function get_all_mode_of_payments is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::get_mode_of_payments_info",
+    "text": "Function get_mode_of_payments_info is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::get_mode_of_payment_info",
+    "text": "Function get_mode_of_payment_info is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::create_dunning",
+    "text": "Function create_dunning is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::postprocess_dunning",
+    "text": "Function postprocess_dunning is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py::check_if_return_invoice_linked_with_payment_entry",
+    "text": "Function check_if_return_invoice_linked_with_payment_entry is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice_dashboard.py::get_data",
+    "text": "Function get_data is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice_dashboard.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\sales_invoice_dashboard.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::TestSalesInvoice",
+    "text": "Class TestSalesInvoice is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "class"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::setUp",
+    "text": "Function setUp is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_invalid_rate_without_override",
+    "text": "Function test_invalid_rate_without_override is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::tearDown",
+    "text": "Function tearDown is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::make",
+    "text": "Function make is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::setUpClass",
+    "text": "Function setUpClass is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::tearDownClass",
+    "text": "Function tearDownClass is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_sales_invoice_qty",
+    "text": "Function test_sales_invoice_qty is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_timestamp_change",
+    "text": "Function test_timestamp_change is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_sales_invoice_change_naming_series",
+    "text": "Function test_sales_invoice_change_naming_series is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_add_terms_after_save",
+    "text": "Function test_add_terms_after_save is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_sales_invoice_calculation_base_currency",
+    "text": "Function test_sales_invoice_calculation_base_currency is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_payment_entry_unlink_against_invoice",
+    "text": "Function test_payment_entry_unlink_against_invoice is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_payment_entry_unlink_against_standalone_credit_note",
+    "text": "Function test_payment_entry_unlink_against_standalone_credit_note is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_sales_invoice_calculation_export_currency",
+    "text": "Function test_sales_invoice_calculation_export_currency is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_sales_invoice_with_discount_and_inclusive_tax",
+    "text": "Function test_sales_invoice_with_discount_and_inclusive_tax is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_sales_invoice_discount_amount",
+    "text": "Function test_sales_invoice_discount_amount is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_discount_amount_gl_entry",
+    "text": "Function test_discount_amount_gl_entry is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_tax_calculation_with_multiple_items",
+    "text": "Function test_tax_calculation_with_multiple_items is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_tax_calculation_with_item_tax_template",
+    "text": "Function test_tax_calculation_with_item_tax_template is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_tax_calculation_with_multiple_items_and_discount",
+    "text": "Function test_tax_calculation_with_multiple_items_and_discount is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_inclusive_rate_validations",
+    "text": "Function test_inclusive_rate_validations is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_sales_invoice_calculation_base_currency_with_tax_inclusive_price",
+    "text": "Function test_sales_invoice_calculation_base_currency_with_tax_inclusive_price is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_sales_invoice_calculation_export_currency_with_tax_inclusive_price",
+    "text": "Function test_sales_invoice_calculation_export_currency_with_tax_inclusive_price is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_outstanding",
+    "text": "Function test_outstanding is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_rounded_total_with_cash_discount",
+    "text": "Function test_rounded_total_with_cash_discount is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_payment",
+    "text": "Function test_payment is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_outstanding_on_cost_center_allocation",
+    "text": "Function test_outstanding_on_cost_center_allocation is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_sales_invoice_gl_entry_without_perpetual_inventory",
+    "text": "Function test_sales_invoice_gl_entry_without_perpetual_inventory is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_pos_gl_entry_with_perpetual_inventory",
+    "text": "Function test_pos_gl_entry_with_perpetual_inventory is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_pos_returns_with_repayment",
+    "text": "Function test_pos_returns_with_repayment is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_pos_change_amount",
+    "text": "Function test_pos_change_amount is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_auto_write_off_amount",
+    "text": "Function test_auto_write_off_amount is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_ledger_entries_of_return_pos_invoice",
+    "text": "Function test_ledger_entries_of_return_pos_invoice is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_pos_with_no_gl_entry_for_change_amount",
+    "text": "Function test_pos_with_no_gl_entry_for_change_amount is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::validate_pos_gl_entry",
+    "text": "Function validate_pos_gl_entry is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_bin_details_of_packed_item",
+    "text": "Function test_bin_details_of_packed_item is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_pos_si_without_payment",
+    "text": "Function test_pos_si_without_payment is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_sales_invoice_gl_entry_with_perpetual_inventory_no_item_code",
+    "text": "Function test_sales_invoice_gl_entry_with_perpetual_inventory_no_item_code is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_sales_invoice_gl_entry_with_perpetual_inventory_non_stock_item",
+    "text": "Function test_sales_invoice_gl_entry_with_perpetual_inventory_non_stock_item is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::_insert_purchase_receipt",
+    "text": "Function _insert_purchase_receipt is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::_insert_delivery_note",
+    "text": "Function _insert_delivery_note is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_sales_invoice_with_advance",
+    "text": "Function test_sales_invoice_with_advance is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_serialized",
+    "text": "Function test_serialized is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_serialized_cancel",
+    "text": "Function test_serialized_cancel is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_serial_numbers_against_delivery_note",
+    "text": "Function test_serial_numbers_against_delivery_note is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_return_sales_invoice",
+    "text": "Function test_return_sales_invoice is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_zero_qty_return_invoice_with_stock_effect",
+    "text": "Function test_zero_qty_return_invoice_with_stock_effect is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_return_invoice_with_account_mismatch",
+    "text": "Function test_return_invoice_with_account_mismatch is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_gle_made_when_asset_is_returned",
+    "text": "Function test_gle_made_when_asset_is_returned is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_incoming_rate_for_stand_alone_credit_note",
+    "text": "Function test_incoming_rate_for_stand_alone_credit_note is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_discount_on_net_total",
+    "text": "Function test_discount_on_net_total is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_multi_currency_gle",
+    "text": "Function test_multi_currency_gle is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_gle_in_transaction_currency",
+    "text": "Function test_gle_in_transaction_currency is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_invalid_currency",
+    "text": "Function test_invalid_currency is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_create_so_with_margin",
+    "text": "Function test_create_so_with_margin is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_outstanding_amount_after_advance_jv_cancellation",
+    "text": "Function test_outstanding_amount_after_advance_jv_cancellation is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_outstanding_amount_after_advance_payment_entry_cancellation",
+    "text": "Function test_outstanding_amount_after_advance_payment_entry_cancellation is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_multiple_uom_in_selling",
+    "text": "Function test_multiple_uom_in_selling is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_item_wise_tax_breakup",
+    "text": "Function test_item_wise_tax_breakup is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::create_si_to_test_tax_breakup",
+    "text": "Function create_si_to_test_tax_breakup is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_company_monthly_sales",
+    "text": "Function test_company_monthly_sales is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_rounding_adjustment",
+    "text": "Function test_rounding_adjustment is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_rounding_adjustment_2",
+    "text": "Function test_rounding_adjustment_2 is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_rounding_adjustment_3",
+    "text": "Function test_rounding_adjustment_3 is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_sales_invoice_with_shipping_rule",
+    "text": "Function test_sales_invoice_with_shipping_rule is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_create_invoice_without_terms",
+    "text": "Function test_create_invoice_without_terms is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_duplicate_due_date_in_terms",
+    "text": "Function test_duplicate_due_date_in_terms is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_credit_note",
+    "text": "Function test_credit_note is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_sales_invoice_with_cost_center",
+    "text": "Function test_sales_invoice_with_cost_center is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_sales_invoice_with_project_link",
+    "text": "Function test_sales_invoice_with_project_link is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_sales_invoice_without_cost_center",
+    "text": "Function test_sales_invoice_without_cost_center is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_deferred_revenue",
+    "text": "Function test_deferred_revenue is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_deferred_revenue_missing_account",
+    "text": "Function test_deferred_revenue_missing_account is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_fixed_deferred_revenue",
+    "text": "Function test_fixed_deferred_revenue is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_validate_inter_company_transaction_address_links",
+    "text": "Function test_validate_inter_company_transaction_address_links is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::_validate_address_link",
+    "text": "Function _validate_address_link is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_inter_company_transaction",
+    "text": "Function test_inter_company_transaction is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_inter_company_transaction_without_default_warehouse",
+    "text": "Function test_inter_company_transaction_without_default_warehouse is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_sle_for_target_warehouse",
+    "text": "Function test_sle_for_target_warehouse is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_internal_transfer_gl_entry",
+    "text": "Function test_internal_transfer_gl_entry is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_internal_transfer_gl_precision_issues",
+    "text": "Function test_internal_transfer_gl_precision_issues is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_item_tax_net_range",
+    "text": "Function test_item_tax_net_range is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_sales_invoice_with_discount_accounting_enabled",
+    "text": "Function test_sales_invoice_with_discount_accounting_enabled is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_additional_discount_for_sales_invoice_with_discount_accounting_enabled",
+    "text": "Function test_additional_discount_for_sales_invoice_with_discount_accounting_enabled is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_asset_depreciation_on_sale_with_pro_rata",
+    "text": "Function test_asset_depreciation_on_sale_with_pro_rata is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_asset_depreciation_on_sale_without_pro_rata",
+    "text": "Function test_asset_depreciation_on_sale_without_pro_rata is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_sales_invoice_against_supplier",
+    "text": "Function test_sales_invoice_against_supplier is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_sales_invoice_against_supplier_usd_with_dimensions",
+    "text": "Function test_sales_invoice_against_supplier_usd_with_dimensions is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_sales_invoice_cancel_with_common_party_advance_jv",
+    "text": "Function test_sales_invoice_cancel_with_common_party_advance_jv is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_payment_statuses",
+    "text": "Function test_payment_statuses is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_update_invoice_status",
+    "text": "Function test_update_invoice_status is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_sales_commission",
+    "text": "Function test_sales_commission is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_sales_invoice_submission_post_account_freezing_date",
+    "text": "Function test_sales_invoice_submission_post_account_freezing_date is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_over_billing_case_against_delivery_note",
+    "text": "Function test_over_billing_case_against_delivery_note is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_multi_currency_deferred_revenue_via_journal_entry",
+    "text": "Function test_multi_currency_deferred_revenue_via_journal_entry is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_standalone_serial_no_return",
+    "text": "Function test_standalone_serial_no_return is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_sales_invoice_with_disabled_account",
+    "text": "Function test_sales_invoice_with_disabled_account is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_gain_loss_with_advance_entry",
+    "text": "Function test_gain_loss_with_advance_entry is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_batch_expiry_for_sales_invoice_return",
+    "text": "Function test_batch_expiry_for_sales_invoice_return is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_sales_invoice_with_payable_tax_account",
+    "text": "Function test_sales_invoice_with_payable_tax_account is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_advance_entries_as_liability",
+    "text": "Function test_advance_entries_as_liability is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_sales_invoice_without_customer_group_and_territory",
+    "text": "Function test_sales_invoice_without_customer_group_and_territory is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_sales_return_negative_rate",
+    "text": "Function test_sales_return_negative_rate is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_partial_allocation_on_advance_as_liability",
+    "text": "Function test_partial_allocation_on_advance_as_liability is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_loyalty_points_redemption_with_shopping_cart",
+    "text": "Function test_loyalty_points_redemption_with_shopping_cart is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_pulling_advance_based_on_debit_to",
+    "text": "Function test_pulling_advance_based_on_debit_to is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_taxes_merging_from_delivery_note",
+    "text": "Function test_taxes_merging_from_delivery_note is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_pos_returns_without_update_outstanding_for_self",
+    "text": "Function test_pos_returns_without_update_outstanding_for_self is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_validation_on_opening_invoice_with_rounding",
+    "text": "Function test_validation_on_opening_invoice_with_rounding is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::_create_opening_roundoff_account",
+    "text": "Function _create_opening_roundoff_account is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_opening_invoice_with_rounding_adjustment",
+    "text": "Function test_opening_invoice_with_rounding_adjustment is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::_create_opening_invoice_with_inclusive_tax",
+    "text": "Function _create_opening_invoice_with_inclusive_tax is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_rounding_validation_for_opening_with_inclusive_tax",
+    "text": "Function test_rounding_validation_for_opening_with_inclusive_tax is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_ledger_entries_on_opening_invoice_with_rounding_loss_by_inclusive_tax",
+    "text": "Function test_ledger_entries_on_opening_invoice_with_rounding_loss_by_inclusive_tax is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_common_party_with_foreign_currency_jv",
+    "text": "Function test_common_party_with_foreign_currency_jv is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_common_party_with_different_currency_in_debtor_and_creditor",
+    "text": "Function test_common_party_with_different_currency_in_debtor_and_creditor is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_invoice_remarks",
+    "text": "Function test_invoice_remarks is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_gl_voucher_subtype",
+    "text": "Function test_gl_voucher_subtype is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_total_billed_amount",
+    "text": "Function test_total_billed_amount is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_total_billed_amount_with_different_projects",
+    "text": "Function test_total_billed_amount_with_different_projects is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_pos_returns_with_party_account_currency",
+    "text": "Function test_pos_returns_with_party_account_currency is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_create_return_invoice_for_self_update",
+    "text": "Function test_create_return_invoice_for_self_update is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_prevents_fully_returned_invoice_with_zero_quantity",
+    "text": "Function test_prevents_fully_returned_invoice_with_zero_quantity is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_pos_sales_invoice_creation_during_pos_invoice_mode",
+    "text": "Function test_pos_sales_invoice_creation_during_pos_invoice_mode is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_stand_alone_credit_note_valuation",
+    "text": "Function test_stand_alone_credit_note_valuation is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_stand_alone_credit_note_zero_valuation",
+    "text": "Function test_stand_alone_credit_note_zero_valuation is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_system_generated_exchange_gain_or_loss_je_after_repost",
+    "text": "Function test_system_generated_exchange_gain_or_loss_je_after_repost is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::test_non_batchwise_valuation_for_moving_average",
+    "text": "Function test_non_batchwise_valuation_for_moving_average is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::make_item_for_si",
+    "text": "Function make_item_for_si is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::set_advance_flag",
+    "text": "Function set_advance_flag is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::check_gl_entries",
+    "text": "Function check_gl_entries is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::create_sales_invoice",
+    "text": "Function create_sales_invoice is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::create_sales_invoice_against_cost_center",
+    "text": "Function create_sales_invoice_against_cost_center is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::get_outstanding_amount",
+    "text": "Function get_outstanding_amount is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::get_taxes_and_charges",
+    "text": "Function get_taxes_and_charges is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::create_internal_parties",
+    "text": "Function create_internal_parties is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::create_internal_supplier",
+    "text": "Function create_internal_supplier is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::setup_accounts",
+    "text": "Function setup_accounts is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  },
+  {
+    "id": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py::add_taxes",
+    "text": "Function add_taxes is defined in C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py.",
+    "source": "C:\\Users\\Anam\\Desktop\\erpnext\\erpnext\\accounts\\doctype\\sales_invoice\\test_sales_invoice.py",
+    "type": "function"
+  }
+]
